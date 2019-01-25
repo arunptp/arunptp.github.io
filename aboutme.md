@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+A staunch believer in a interdisciplinary approach to problem solving. Strongly relate to the "Medici Effect" which argues that innovation comes from diverse industries, cultures, and disciplines when they all intersect, bringing ideas from one field into another.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+#### # Machine Learning & Artificial Intelligence Enthusiast
+#### # Data Science
+#### # Power & Energy Engineering
+#### # Finance Freak 
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
