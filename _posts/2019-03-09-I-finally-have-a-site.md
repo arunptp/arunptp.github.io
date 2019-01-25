@@ -1,1 +1,6 @@
-Finally a place for my soliloquy
+---
+layout: post
+published: false
+title: Untitled
+---
+Finally, a place for my soliloquy
