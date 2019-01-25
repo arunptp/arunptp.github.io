@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
-title: Untitled
+title: First post!
 ---
-Finally, a place for my soliloquy.
+
+This is my first post, how exciting!
