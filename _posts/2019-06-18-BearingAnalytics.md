@@ -50,7 +50,7 @@ The dataset is sourced from the NASA repo https://ti.arc.nasa.gov/tech/dash/grou
 ---
 ## Breif Description of Test Rig for Data Collection
 
-This is a <em><b>"Run to Failure "</em></b> dataset.
+This is a ***"Run to Failure "*** dataset.
 
 Four bearings were installed on a shaft. The rotation speed was kept constant at 2000 RPM by an AC motor coupled to the shaft via rub belts.  A radial load of 6000 lbs is applied onto the shaft and bearing by a spring mechanism. All bearings are force lubricated.
 
@@ -64,7 +64,7 @@ Rexnord ZA-2115 double row bearings were installed on the shaft as shown in Figu
 *   Channel Arrangement:  Bearing 1 – Ch 1; Bearing2 – Ch 2; Bearing3 – Ch3; Bearing 4 – Ch 4.
 *   File Recording Interval:  Every 10 minutes
 *   File Format:  ASCII Description
----
+
 At the end of the test-to-failure experiment, Outer race failure occurred in bearing 1. 
 
 # Loading of Data from G.Cloud
@@ -163,7 +163,7 @@ data/2004.02.19.06.22.39
 
 Each file contains 10mins of accelerometer data.
 
-##Data Wrangling
+## Data Wrangling
 Each of the 10min file is averaged and stored to a pandas dataframe 
 
 
