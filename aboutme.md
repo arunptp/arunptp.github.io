@@ -10,5 +10,5 @@ I am a Manager in the Electric Utility Industry by profession, Electrical Engine
 
 #### # Power & Energy Engineering
 #### # Machine Learning & Artificial Intelligence Enthusiast
-#### # Finance Freak 
+#### # Finance 
 
