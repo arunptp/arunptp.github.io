@@ -1,6 +1,6 @@
 
 ---
-title: Enron - Predictive Maintenance - Using FB Prophet Package
+title: Predictive Maintenance - Using FB Prophet Package
 author: Arun Thomas
 image: /img/analytics.jpg
 
