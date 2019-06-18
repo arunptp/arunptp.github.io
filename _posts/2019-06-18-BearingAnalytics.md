@@ -377,7 +377,7 @@ plt.text('2004-02-19 06:12:39',0.3,'Breakdown of Bearing 1',rotation=90, fontsiz
 
 
 
-![png](_posts/BearingAnalytics_files/BearingAnalytics_23_1.png)
+![png](/_posts/BearingAnalytics_files/BearingAnalytics_23_1.png)
 
 
 The above figure shows the accelereometer data for all four bearings. Bearing 1 fails at end of measurement, @ 2004-02-19 06:22:39. 
@@ -415,7 +415,7 @@ ax2.set(xlabel="Month-Date Time", ylabel="Vibration/Acceleration(g)")
 
 
 
-![png](_posts/BearingAnalytics_files/BearingAnalytics_26_1.png)
+![png](/_posts/BearingAnalytics_files/BearingAnalytics_26_1.png)
 
 
 The above graphs shows the vibration data fro bearing 1 at the for the same time peiod , '11:02:39' to "23:52:39' on 12th (Healthy) and on the 18th(Faulty/Poor Heath Score).
@@ -555,7 +555,7 @@ fig1.set(xlabel="Month (MM)-Date(DD) Time", ylabel="Vibration/Acceleration(g)")
 
 
 
-![png](_posts/BearingAnalytics_files/BearingAnalytics_35_2.png)
+![png](/_posts/BearingAnalytics_files/BearingAnalytics_35_2.png)
 
 
 The black points are the true data points of the vibration sensor. The blue line represents the fitted line (trend line) with the light blue portion showing the acceptable variance.
@@ -601,7 +601,7 @@ fig1.text(731624.875,0.057,'Actual/Healthy', fontsize=14, color='r')
 
 
 
-![png](_posts/BearingAnalytics_files/BearingAnalytics_38_2.png)
+![png](/_posts/BearingAnalytics_files/BearingAnalytics_38_2.png)
 
 
 The black points are the true data points of the vibration sensor. The blue line represents the expected values from 2004-02-15, 23:42:39  with the light blue portion showing the acceptable variance.
