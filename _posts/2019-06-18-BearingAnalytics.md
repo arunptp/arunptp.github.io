@@ -1,7 +1,7 @@
 
 # CONDITION MONITORING & PREDICTIVE MAINTENANCE 
 
-   <em><b> --- By Arun A Thomas </em></b>
+   <em><b> --- By Arun A Thomas </b>
 
 
 ><em><b>"The Mantra : Less time spent on figuring out the problem, more time spent on fixing and preventing it "</em></b>
