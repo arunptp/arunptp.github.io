@@ -1,4 +1,3 @@
-
 ---
 title: Predictive Maintenance Using FB Prophet Package
 author: Arun Thomas
