@@ -5,7 +5,7 @@ image: /img/powerlines.jpg
 
 ---
 
-<!DOCTYPE html>
+
 <html>
 <head><meta charset="utf-8" />
 <title>BearingAnalytics</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
