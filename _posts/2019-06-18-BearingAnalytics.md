@@ -1,18 +1,14 @@
 
-# CONDITION MONITORING & PREDICTIVE MAINTENANCE 
+---
+title: Enron - Predictive Maintenance - Using FB Prophet Package
+author: Arun Thomas
+image: /img/analytics.jpg
 
-   --- By Arun A Thomas 
-
+---
 
 **"The Mantra : Less time spent on figuring out the problem, more time spent on fixing and preventing it "**
 
 <font color="blue">This notebook is intended to illustrate conditioning monitoring of industrial machinery by walking  through a real life dataset of bearing vibration data.</font>
-
-
-
-
-
-
 
 
 # Introduction
@@ -25,7 +21,7 @@ This is where machine learning and other AI based techniques step in.
 
 This notes walks one through anamoly detection of a single dimension data (vibration). This is easier to visualise. The same principles hold true for mutildimensional data as well.
 
-#Machine Learning Anamoly Detection Engine
+# Machine Learning Anamoly Detection Engine
 
 A Machine Learning Anomaly Detection (MLAD) Engine uses sensor data like tempearture, flow, vibration and other variables (multi-dimensional) to create a multi-dimensional pattern ., i.e. the state of a machine is "learned" under healthy operating conditions.  By learning the healthy state, the engine guages if an alert should be triggered or not under any deviation.
 
@@ -86,14 +82,7 @@ print(" Current Working Directory")
 ```
 
      Current Working Directory
-    
-
-
-
-
     '/content'
-
-
 
 Importing Python Packages
 
@@ -354,7 +343,6 @@ merged_data.tail()
 #Check Total Points
 print(f'Total Data Points {merged_data.shape[0] + 1}')
 ```
-
     Total Data Points 984
     
 
@@ -368,14 +356,7 @@ ax.set(xlabel="Year-Month-Date", ylabel="Vibration/Acceleration(g)")
 plt.axvline(x='2004-02-19 06:12:39', linewidth=4, color='b', label ="Breakdown of Bearing 1")
 plt.text('2004-02-19 06:12:39',0.3,'Breakdown of Bearing 1',rotation=90, fontsize=14, color='b')
 ```
-
-
-
-
     Text(2004-02-19 06:12:39, 0.3, 'Breakdown of Bearing 1')
-
-
-
 
 ![png](/img/BearingAnalytics_files/BearingAnalytics_23_1.png)
 
@@ -404,12 +385,7 @@ faulty = merged_data['2004-02-18 11:02:39':'2004-02-18 23:52:39']
 ax2 = faulty['Bearing 1'].plot(figsize = (12,6), title="Faulty State" , legend = True, ax= ax2)
 ax2.set(xlabel="Month-Date Time", ylabel="Vibration/Acceleration(g)")
 
-
 ```
-
-
-
-
     [Text(0, 0.5, 'Vibration/Acceleration(g)'), Text(0.5, 0, 'Month-Date Time')]
 
 
@@ -518,18 +494,10 @@ m = Prophet(interval_width = 1)
 # Using the training data from "healthy part"
 m.fit(prophet_healthy_train)
 ```
-
     INFO:fbprophet:Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
     INFO:fbprophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
-    
-
-
-
-
     <fbprophet.forecaster.Prophet at 0x7f84a9ec7da0>
-
-
-
+    
 ## Evaluation on Training Data
 
 
@@ -542,18 +510,10 @@ fig1 = healthy_bearing1.plot(figsize = (12,6), title="Fit of Training Data")
 fig1.set(xlabel="Month (MM)-Date(DD) Time", ylabel="Vibration/Acceleration(g)")
 
 ```
-
     Displaying Prophet plot
     
-
-
-
-
     [Text(45.125, 0.5, 'Vibration/Acceleration(g)'),
      Text(0.5, 30.5, 'Month (MM)-Date(DD) Time')]
-
-
-
 
 ![png](/img/BearingAnalytics_files/BearingAnalytics_35_2.png)
 
@@ -589,17 +549,8 @@ fig1.text(731626.875,0.057,'Expected/Predicted', fontsize=14, color='r')
 fig1.text(731626.875,0.075,'Actual/Faulty Data', fontsize=14, color='r')
 fig1.text(731624.875,0.057,'Actual/Healthy', fontsize=14, color='r')
 ```
-
     Displaying Prophet plot
-    
-
-
-
-
     Text(731624.875, 0.057, 'Actual/Healthy')
-
-
-
 
 ![png](/img/BearingAnalytics_files/BearingAnalytics_38_2.png)
 
