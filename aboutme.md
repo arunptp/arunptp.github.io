@@ -12,4 +12,4 @@ I am a Manager in the Electric Utility Industry by profession, Electrical Engine
 #### # Machine Learning & Artificial Intelligence Enthusiast
 #### # Finance 
 
-You can connect me on <a href="https://www.linkedin.com/in/arunthomas89/">Linkedln</a>
+You can connect with me on <a href="https://www.linkedin.com/in/arunthomas89/">Linkedln</a>
