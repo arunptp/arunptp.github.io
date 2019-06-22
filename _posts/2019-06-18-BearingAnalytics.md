@@ -7,7 +7,7 @@ image: /img/analytics.jpg
 
 **"The Mantra : Less time spent on figuring out the problem, more time spent on fixing and preventing it "**
 
-<font color="blue">This notebook is intended to illustrate conditioning monitoring of industrial machinery by walking  through a real life dataset of bearing vibration data.</font>
+<font color="blue">This notebook is intended to illustrate conditioning monitoring of industrial machinery by walking  through a real life dataset of bearing vibration data. The code in Ipython format is hosted at <a> https://github.com/arunptp/Predictive-Analytics</a></font>
 
 
 # Introduction
@@ -24,11 +24,7 @@ This notes walks one through anamoly detection of a single dimension data (vibra
 
 A Machine Learning Anomaly Detection (MLAD) Engine uses sensor data like tempearture, flow, vibration and other variables (multi-dimensional) to create a multi-dimensional pattern ., i.e. the state of a machine is "learned" under healthy operating conditions.  By learning the healthy state, the engine guages if an alert should be triggered or not under any deviation.
 
-
-The second step is to forecast the probability of future breakdown or in other words, asses the RUL (Residual Useful Life) of a machine. This provides valuable information regarding urgent repairs or regarding planned maintenance activity.
-
-
-Finally, can integrate them into dashboards  or  into alarm systems that will be monitored by maintenance teams.
+Finally, we can integrate them into dashboards  or  into alarm systems that will be monitored by maintenance teams.
 
 # Softwares / Packages Used
 
