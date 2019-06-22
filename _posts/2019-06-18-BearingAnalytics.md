@@ -7,7 +7,7 @@ image: /img/analytics.jpg
 
 **"The Mantra : Less time spent on figuring out the problem, more time spent on fixing and preventing it "**
 
-<font color="blue">This notebook is intended to illustrate conditioning monitoring of industrial machinery by walking  through a real life dataset of bearing vibration data. The code in Ipython format is hosted at <a> https://github.com/arunptp/Predictive-Analytics</a></font>
+<font color="blue">This notebook is intended to illustrate conditioning monitoring of industrial machinery by walking  through a real life dataset of bearing vibration data. The code in Ipython format is hosted at <a> https://github.com/arunptp/Predictive-Analytics.</a></font>
 
 
 # Introduction
