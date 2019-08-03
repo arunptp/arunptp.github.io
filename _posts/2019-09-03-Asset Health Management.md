@@ -1,3 +1,10 @@
+---
+title: Asset Health Management
+author: Arun Thomas
+image: /img/analytics.jpg
+
+---
+
 
 # Asset Health Management - Part 1
 
