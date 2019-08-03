@@ -1,23 +1,17 @@
 ---
-title: Asset Health Management
+title: Asset Health Management- - Part 1
 author: Arun Thomas
 image: /img/analytics.jpg
 
 ---
 
-
-# Asset Health Management - Part 1
-
- ###  <font color="blue"> \# Residual Useful Life Estimation | # Deep Learning | # Digital Transformation | # IIoT | # Industry 4.0 </font>
-
-
-
+ <font color="blue"> \# Residual Useful Life Estimation | # Deep Learning | # Digital Transformation | # IIoT | # Industry 4.0 </font>
 
 ---
 
 
 
-> ## # An  interactive demo is explored at https://arun-thomas.xyz/rul/
+> # An  interactive demo is explored at https://arun-thomas.xyz/rul/
 
 
 
