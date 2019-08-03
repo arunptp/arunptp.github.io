@@ -505,7 +505,7 @@ Y_train_hot = predictor_var(rul_data, 30)
 
 ## Normalization 
 
-Since we are using mutidimensional data, it is importtant to get them on the same scale. Ensuring standardised feature values implicitly weights all features equally in their representation.
+Since we are using mutidimensional data, it is important to get them on the same scale. Ensuring standardised feature values implicitly weights all features equally in their representation.
 
 
 ```python
@@ -541,7 +541,7 @@ X_train = normalize(train_data)
 
 A windowing approach is used to generate samples., i.e. first look at 1 to n seq-length, then the next 2 to n seq-length + 1. 
 
-Further tf/keras, accepts tenensors in the format (samples, time, features)
+Further tf/keras, accepts tensors in the format (samples, time, features)
 
 
 ```python
