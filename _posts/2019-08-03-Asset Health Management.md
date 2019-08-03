@@ -5,7 +5,7 @@ image: /img/analytics.jpg
 
 ---
 
- <font color="blue"> \# Residual Useful Life Estimation | # Deep Learning | # Digital Transformation | # IIoT | # Industry 4.0 </font>
+ <font color="blue"> # Residual Useful Life Estimation | # Deep Learning | # Digital Transformation | # IIoT | # Industry 4.0 </font>
 
 ---
 
@@ -80,7 +80,7 @@ The data are provided as a zip-compressed text file with 26 columns of numbers, 
 ...
 26)	sensor measurement  26
 
-------------------------------------------
+---
 Data Citation
 
 > *Reference: A. Saxena, K. Goebel, D. Simon, and N. Eklund, “Damage Propagation Modeling for Aircraft Engine Run-to-Failure Simulation”, in the Proceedings of the Ist International Conference on Prognostics and Health Management (PHM08), Denver CO, Oct 2008.*
@@ -422,7 +422,7 @@ plt = train_data_1[train_data_1.columns.difference(['id','cycle'])].plot(subplot
 ```
 
 
-![png](output_14_0.png)
+![png](/img/rul/output_14_0.png)
 
 
 ## Calculation of Residual Useful Life for Training Data
@@ -1131,7 +1131,7 @@ plt.show()
 ```
 
 
-![png](output_62_0.png)
+![png](/img/rul/output_62_0.png)
 
 
 
@@ -1147,7 +1147,7 @@ plt.show()
 ```
 
 
-![png](output_63_0.png)
+![png](/img/rul/output_63_0.png)
 
 
 ## Confusion Matrix
