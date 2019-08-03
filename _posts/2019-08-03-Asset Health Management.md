@@ -1,7 +1,7 @@
 ---
 title: Asset Health Management- - Part 1
 author: Arun Thomas
-image: /img/analytics.jpg
+image: /img/rul/cover.jpg
 
 ---
 
@@ -11,7 +11,7 @@ image: /img/analytics.jpg
 
 
 
-> # An  interactive demo is explored at https://arun-thomas.xyz/rul/
+> ## An  interactive demo is explored at <a href="https://arun-thomas.xyz/rul/">https://arun-thomas.xyz/rul/</a>
 
 
 
