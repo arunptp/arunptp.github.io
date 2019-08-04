@@ -1,5 +1,5 @@
 ---
-title: Asset Health Management- - Part 1
+title: Asset Health Management - Part 1
 author: Arun Thomas
 image: /img/rul/cover.jpeg
 
