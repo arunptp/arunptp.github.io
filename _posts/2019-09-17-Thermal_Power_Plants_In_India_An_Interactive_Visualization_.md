@@ -5,7 +5,7 @@ image: /img/PowerPlant.jpg
 ---
  <font color="blue"> # Geo-Tagging | # Visualization | # Tableau </font>
 ---
-> ## An  interactive demo is explored at <a href="https://arun-thomas.xyz/vizthermalin/">https://arun-thomas.xyz/vizthermalin/</a>
+> ## Vizualization is hosted @ <a href="https://arun-thomas.xyz/vizthermalin/">https://arun-thomas.xyz/vizthermalin/</a>
 
 ---
 
