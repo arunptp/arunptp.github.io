@@ -2,14 +2,11 @@
 title: Thermal Power Plants in India - An Interactive Visualization
 author: Arun Thomas
 image: /img/PowerPlant.jpg
-
 ---
-
-# Thermal Power Plants in India - An Interactive Visualization 
- ## <font color="blue"> \# Geo-Tagging | # Visualization | # Tableau </font>
-
+ <font color="blue"> \# Geo-Tagging | # Visualization | # Tableau </font>
 ---
- ##  # The visualization can be found at https://arun-thomas.xyz/vizthermalin/ 
+> ## An  interactive demo is explored at <a href="https://arun-thomas.xyz/rul/">https://arun-thomas.xyz/vizthermalin/</a>
+
 ---
 
 <div text="align">
