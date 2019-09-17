@@ -5,21 +5,11 @@ image: /img/PowerPlant.jpg
 
 ---
 
-# <div align="center"> Thermal Power Plants in India - An Interactive Visualization </div>
- ##  <div align="center"><font color="blue"> \# Geo-Tagging | # Visualization | # Tableau </font></div>
-
-
-
-
+# Thermal Power Plants in India - An Interactive Visualization 
+ ## <font color="blue"> \# Geo-Tagging | # Visualization | # Tableau </font>
 
 ---
-
-
-
- ## <div align="center"> # The visualization can be found at https://arun-thomas.xyz/vizthermalin/ </div>
-
-
-
+ ##  # The visualization can be found at https://arun-thomas.xyz/vizthermalin/ 
 ---
 
 <div text="align">
