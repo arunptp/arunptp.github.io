@@ -19,7 +19,7 @@ This project was an attempt to study Data visualization using Tableau. Serendept
 </div>
 <div text="align">
 Further perusal and experimentation with geo-tagging literature available on the internet yielded the following method of finding latitude and logitudes of 662 numbers of power stations.
-
+</div>
 
 
 ## Geo Tagging Using Google Geo Code API
